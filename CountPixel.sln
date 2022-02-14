@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountPixel", "CountPixel\CountPixel.csproj", "{44650B2D-4F87-4911-9B36-1B9D43E7E0DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44650B2D-4F87-4911-9B36-1B9D43E7E0DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44650B2D-4F87-4911-9B36-1B9D43E7E0DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44650B2D-4F87-4911-9B36-1B9D43E7E0DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44650B2D-4F87-4911-9B36-1B9D43E7E0DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AD83013-6F79-41C4-9132-7B22677C92CD}
+	EndGlobalSection
+EndGlobal
